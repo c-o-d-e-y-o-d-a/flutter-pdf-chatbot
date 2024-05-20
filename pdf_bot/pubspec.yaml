@@ -41,6 +41,17 @@ dependencies:
   langchain_openai: ^0.0.13
   langchain_pinecone:
 
+  langchain:
+    git:
+      url: https://github.com/c-o-d-e-y-o-d-a/langchain_dart
+      path: packages/langchain
+
+  
+
+ 
+    
+
+
 dependency_overrides:
   
 
